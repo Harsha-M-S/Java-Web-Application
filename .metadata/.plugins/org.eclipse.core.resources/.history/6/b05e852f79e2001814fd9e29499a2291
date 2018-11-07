@@ -1,5 +1,5 @@
 package com.in28minutes.login;
-//Harsha
+//login service
 public class Loginservice {
 	public boolean isUserValid(String user, String password)
 	{
